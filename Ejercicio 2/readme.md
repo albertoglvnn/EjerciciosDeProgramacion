@@ -1,6 +1,6 @@
 # Ejercicio 2
 
-## Introduccion al UML
+## Introduccion a la herencia 
 
 ### Clase Estudiante
 
