@@ -2,7 +2,7 @@
 
 ## Introduccion a la herencia 
 
-### Clase Estudiante
+### Clase Cuenta Bancario y Mascotas
 
 * En este proyecto se implementó en Python la clase **cuenta bancaria y mascota**, siguiendo la estructura de la herencia
 

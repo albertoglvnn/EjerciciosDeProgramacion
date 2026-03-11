@@ -1,30 +1,11 @@
+# Ejercicio 3
 
-I can help you document this Python code in markdown. Here's a properly formatted README:
+## Introduccion a la herencia con padre e hija
 
-```markdown
-# Exercise 3
+### Clase Animal
 
-## Code
+* En este proyecto se implementó en Python la clase padre **Animal** y clase hija **Gato** y **Perro**, siguiendo la estructura de la herencia
 
-```python
-print("hola mundo")
-```
+* Creamos sistema básico para gestionar la clase padre llamada Animal. la cual almacena informacion con el nombre y la edad.
 
-## Description
-
-This is a simple Python program that prints "hola mundo" (hello world in Spanish) to the console.
-
-## Usage
-
-Run the script with:
-
-```bash
-python script.py
-```
-
-## Output
-
-```
-hola mundo
-```
-```
+* En las clases hijas creamos las clases perro y gato las cuales heredan de la clase padre el nombre y edad ademas de eso añadimos la vairable de hablar en ambos ejercicios.
