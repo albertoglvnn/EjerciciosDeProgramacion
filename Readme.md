@@ -41,15 +41,16 @@ Paradigma de Programación Orientada a Objetos
 
 ### El proyecto se divide en varios archivos donde se implementan las clases y su lógica. Cada uno representa diferentes partes del sistema.
 
-Ejemplo de estructura:
-/proyecto-poo
-│
-├── main.py
-├── clases/
-│   ├── clase_base.py
-│   ├── subclase1.py
-│   └── subclase2.py
-└── README.md
+Ejemplo de estructura:<br>
+
+/proyecto-poo <br>
+│ <br>
+├── main.py <br>
+├── clases/ <br>
+│   ├── clase_base.py <br>
+│   ├── subclase1.py <br>
+│   └── subclase2.py <br>
+└── README.md <br>
 
 ### Reflexión final
 
