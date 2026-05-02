@@ -8,7 +8,7 @@ Ambos son Jugadores del torneo, así que comparten información y comportamiento
 
 ## Especificaciones requeridas
 
-### CLase Base
+### Clase Base
 * Nombre
 * Numero de control
 * Nivel 
@@ -23,8 +23,8 @@ Ambos son Jugadores del torneo, así que comparten información y comportamiento
 * Hereda todo padre y se añade el equipo al que pertenece
 
 ### Clase Observador
-* Hereda todo del padre y se añaden puntos por ver partidas y apartado de partidas vistas 
+* Hereda todo del padre y se añaden puntos por ver partidas y un apartado de partidas vistas 
 
-## Conclucion
+## Conclusion
  
 con esta nueva problematica se busca poner a prueba lo visto en las anteriores clases, desempeñando asi un papel fundamental en la competencia ya que en vez de asistirte con un manual lo que busca esta porblema es usar nuestro conocimiento y herramientas antes proporcionadas para avanzar y fomentar el pensamiento y resolucion de problematicas en un futuro
